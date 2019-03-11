@@ -1,0 +1,14 @@
+C:\Exercicios\AbsoluteIT\ProofOfConcept\Infrastructure\bin\Debug\netcoreapp2.2\Infrastructure.deps.json
+C:\Exercicios\AbsoluteIT\ProofOfConcept\Infrastructure\bin\Debug\netcoreapp2.2\Infrastructure.dll
+C:\Exercicios\AbsoluteIT\ProofOfConcept\Infrastructure\obj\Debug\netcoreapp2.2\Infrastructure.csprojAssemblyReference.cache
+C:\Exercicios\AbsoluteIT\ProofOfConcept\Infrastructure\obj\Debug\netcoreapp2.2\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Exercicios\AbsoluteIT\ProofOfConcept\Infrastructure\obj\Debug\netcoreapp2.2\Infrastructure.AssemblyInfoInputs.cache
+C:\Exercicios\AbsoluteIT\ProofOfConcept\Infrastructure\obj\Debug\netcoreapp2.2\Infrastructure.AssemblyInfo.cs
+C:\Exercicios\AbsoluteIT\ProofOfConcept\Infrastructure\bin\Debug\netcoreapp2.2\Infrastructure.runtimeconfig.json
+C:\Exercicios\AbsoluteIT\ProofOfConcept\Infrastructure\bin\Debug\netcoreapp2.2\Infrastructure.runtimeconfig.dev.json
+C:\Exercicios\AbsoluteIT\ProofOfConcept\Infrastructure\bin\Debug\netcoreapp2.2\Infrastructure.pdb
+C:\Exercicios\AbsoluteIT\ProofOfConcept\Infrastructure\bin\Debug\netcoreapp2.2\Domain.dll
+C:\Exercicios\AbsoluteIT\ProofOfConcept\Infrastructure\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\Exercicios\AbsoluteIT\ProofOfConcept\Infrastructure\obj\Debug\netcoreapp2.2\Infrastructure.csproj.CopyComplete
+C:\Exercicios\AbsoluteIT\ProofOfConcept\Infrastructure\obj\Debug\netcoreapp2.2\Infrastructure.dll
+C:\Exercicios\AbsoluteIT\ProofOfConcept\Infrastructure\obj\Debug\netcoreapp2.2\Infrastructure.pdb

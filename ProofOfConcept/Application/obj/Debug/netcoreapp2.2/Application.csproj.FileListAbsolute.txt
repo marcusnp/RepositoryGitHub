@@ -1,0 +1,17 @@
+C:\Exercicios\AbsoluteIT\ProofOfConcept\Application\bin\Debug\netcoreapp2.2\Application.deps.json
+C:\Exercicios\AbsoluteIT\ProofOfConcept\Application\bin\Debug\netcoreapp2.2\Application.runtimeconfig.json
+C:\Exercicios\AbsoluteIT\ProofOfConcept\Application\bin\Debug\netcoreapp2.2\Application.runtimeconfig.dev.json
+C:\Exercicios\AbsoluteIT\ProofOfConcept\Application\bin\Debug\netcoreapp2.2\Application.dll
+C:\Exercicios\AbsoluteIT\ProofOfConcept\Application\bin\Debug\netcoreapp2.2\Application.pdb
+C:\Exercicios\AbsoluteIT\ProofOfConcept\Application\obj\Debug\netcoreapp2.2\Application.csproj.CoreCompileInputs.cache
+C:\Exercicios\AbsoluteIT\ProofOfConcept\Application\obj\Debug\netcoreapp2.2\Application.RazorAssemblyInfo.cache
+C:\Exercicios\AbsoluteIT\ProofOfConcept\Application\obj\Debug\netcoreapp2.2\Application.RazorAssemblyInfo.cs
+C:\Exercicios\AbsoluteIT\ProofOfConcept\Application\obj\Debug\netcoreapp2.2\Application.AssemblyInfoInputs.cache
+C:\Exercicios\AbsoluteIT\ProofOfConcept\Application\obj\Debug\netcoreapp2.2\Application.AssemblyInfo.cs
+C:\Exercicios\AbsoluteIT\ProofOfConcept\Application\obj\Debug\netcoreapp2.2\Application.RazorTargetAssemblyInfo.cache
+C:\Exercicios\AbsoluteIT\ProofOfConcept\Application\obj\Debug\netcoreapp2.2\Application.dll
+C:\Exercicios\AbsoluteIT\ProofOfConcept\Application\obj\Debug\netcoreapp2.2\Application.pdb
+C:\Exercicios\AbsoluteIT\ProofOfConcept\Application\bin\Debug\netcoreapp2.2\Domain.dll
+C:\Exercicios\AbsoluteIT\ProofOfConcept\Application\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\Exercicios\AbsoluteIT\ProofOfConcept\Application\obj\Debug\netcoreapp2.2\Application.csprojAssemblyReference.cache
+C:\Exercicios\AbsoluteIT\ProofOfConcept\Application\obj\Debug\netcoreapp2.2\Application.csproj.CopyComplete
